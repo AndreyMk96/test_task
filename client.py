@@ -8,3 +8,4 @@ data = sock.recv(1024)
 sock.close()
 
 print (data)
+print("hello")
